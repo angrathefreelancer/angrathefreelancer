@@ -58,8 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Programmers are born not made."
   - text: "Deed not words."
 
-user_id: 100000679153557
-
+me-img: /img/me.jpg
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
 # Facebook user id can be found by cFlicking on your profile pic and the large number
