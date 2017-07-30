@@ -31,17 +31,17 @@ force-https: True
 lang: "en"
 author: "Ankit Angra"
 title: "{ Ankit Angra }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "Website of Anit Angra. Opinions expressed are mine."
+keywords: "ankit, angra, coding, theme"
 favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/laptop.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/background.jpg"
 
 ##############################
 # Dynamic Text on the Header #
