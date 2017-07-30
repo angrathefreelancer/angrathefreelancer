@@ -133,9 +133,12 @@ events:
   - image: "/img/graduated.jpg"
     date: "July 2014"
     description: "Graduated"
-  - image: "/img/boaring_job.jpeg"
+  - image: "/img/boaring_job.jpg"
     date: "July 2014 - Present"
     description: "Boaring Job"
+  - image: "/img/happy.gif"
+    date: "March 2017"
+    description: "First freelancing project"
 
 # First image of the Timeline
 
