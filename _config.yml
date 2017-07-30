@@ -133,9 +133,9 @@ events:
   - image: "/img/graduated.jpg"
     date: "July 2014"
     description: "Graduated"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "July 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/boaring_job.jpeg"
+    date: "July 2014 - Present"
+    description: "Boaring Job"
 
 # First image of the Timeline
 
